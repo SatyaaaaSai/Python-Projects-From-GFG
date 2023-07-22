@@ -1,4 +1,4 @@
-import random;
+import random
 import math
 name=input("Enter Your Name")
 
